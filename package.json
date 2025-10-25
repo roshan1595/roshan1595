@@ -1,0 +1,41 @@
+{
+  "name": "roshan1595-profile",
+  "version": "1.0.0",
+  "description": "GitHub Profile README with dynamic statistics and custom design",
+  "main": "scripts/api-server.js",
+  "scripts": {
+    "start": "node scripts/api-server.js",
+    "dev": "nodemon scripts/api-server.js",
+    "stats": "python scripts/github_stats.py",
+    "build": "echo 'Building profile assets...'",
+    "deploy": "git add . && git commit -m 'Update profile' && git push"
+  },
+  "keywords": [
+    "github-profile",
+    "readme",
+    "statistics",
+    "api",
+    "data-science",
+    "artificial-intelligence",
+    "database"
+  ],
+  "author": "Roshan Kumar Singh <roshan@xaltrax.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roshan1595/roshan1595.git"
+  },
+  "homepage": "https://github.com/roshan1595",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
