@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/header-banner.svg)
+<img src="https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/simple-banner.svg" alt="Roshan Kumar Singh - AI Engineer, Database Specialist, Data Science Enthusiast" width="800" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=AI+%26+Database+Engineer;Data+Science+Enthusiast;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -34,7 +35,7 @@
   
   <!-- Title Text -->
   <text x="200" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
-    AI & Database Engineer
+    AI and Database Engineer
   </text>
   
   <!-- Subtitle -->
