@@ -88,21 +88,13 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 | 📅 **Account Since** | `2023-03-30` | Years of consistent coding |
 | ⭐ **Total Stars** | `Building...` | Projects gaining recognition |
 
-### 🌐 **Language Distribution**
-```
-Python       █████████████████████░░░░░░░░░░░░░░░░░░░ 53.7%
-TypeScript   ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 30.6%
-JavaScript   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.8%
-```
-
 ### 📈 **GitHub Stats Widgets**
-
-<!-- The cool GitHub stats images are back! -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=86400" alt="Top Languages"/>
 
 <!-- GitHub streak stats -->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<!-- Top languages chart -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=86400" alt="Top Languages"/>
 
 <!-- Custom language distribution SVG -->
 <img src="https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/language-stats.svg" alt="Language Distribution" width="400"/>
