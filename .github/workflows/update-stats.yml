@@ -8,6 +8,10 @@ on:
   push:
     branches: [ main ]
 
+permissions:
+  contents: write
+  actions: read
+
 jobs:
   update-stats:
     runs-on: ubuntu-latest
@@ -15,7 +19,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
-      
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -34,12 +40,21 @@ jobs:
       run: |
         python scripts/update_readme.py
         
+    - name: Get current date
+      id: date
+      run: echo "date=$(date)" >> $GITHUB_OUTPUT
+        
     - name: Commit and push changes
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add -A
-        git diff --staged --quiet || git commit -m "🔄 Auto-update GitHub stats - $(date)"
-        git push
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: '🔄 Auto-update GitHub stats - ${{ steps.date.outputs.date }}'
+        branch: main
+        commit_user_name: github-actions[bot]
+        commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+        commit_author: GitHub Actions <actions@github.com>
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: Get current date
+      id: date
+      run: echo "date=$(date)" >> $GITHUB_OUTPUT
