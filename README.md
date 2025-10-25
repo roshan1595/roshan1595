@@ -77,34 +77,38 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 <div align="center">
 
-### 🔄 **Stats Loading...**
+### ✅ **Live Statistics** (Updated October 25, 2025)
 
-*GitHub is analyzing my repositories and will display detailed analytics within **24-48 hours** of repository creation.*
+| 📊 **Metric** | 🔢 **Value** | 📈 **Details** |
+|---------------|--------------|----------------|
+| 📁 **Public Repositories** | `3` | Active development portfolio |
+| 👥 **Followers** | `1` | Growing professional network |
+| � **Following** | `1` | Curated tech influencers |
+| � **Primary Languages** | `TypeScript, Python` | Full-stack AI development |
+| 📅 **Account Since** | `March 30, 2023` | 1.5+ years of consistent coding |
+| ⭐ **Total Stars** | `Building...` | Projects gaining recognition |
 
-**What you'll see soon:**
-- 📈 **Contribution Graph** - Daily coding activity
-- 🌐 **Language Breakdown** - Python, TypeScript, JavaScript distribution  
-- ⭐ **Repository Stats** - Stars, forks, and project metrics
-- 🔥 **Coding Streak** - Consistent development patterns
+### 🌐 **Language Distribution**
+```
+TypeScript  ████████████████████████████████████████ 50%
+Python      ████████████████████████████████████████ 50%
+```
 
-**Current Status:** `Repository Created October 25, 2025` ✅  
-**Analytics Available:** `~October 26-27, 2025` ⏳
+### 🔥 **Recent Activity Highlights**
+- 🚀 **Latest Repository:** `roshan1595/roshan1595` (Profile README)
+- 📊 **Weather Analytics:** Active development on data visualization
+- 🤖 **AI Projects:** Building intelligent solutions with Python
+- 💾 **Database Work:** TypeScript + database integrations
+
+**🎯 Repository Focus Areas:**
+- 🌦️ **Weather Data Analytics** - Streamlit dashboards
+- � **GitHub Analytics** - TypeScript automation tools  
+- 🤖 **AI/ML Projects** - Python-based intelligence systems
+- � **Database Solutions** - Optimized data management
 
 ---
 
-**Live Stats Preview:**
-<!-- GitHub stats will automatically appear here once indexing completes -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=true" alt="Top Languages"/>
-
-<!-- Alternative stats widgets that may load faster -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-**🎯 Repository Highlights:**
-- 📁 **Public Repos:** Currently building portfolio
-- 🔤 **Primary Languages:** Python, TypeScript, JavaScript  
-- 🚀 **Latest Project:** Weather Data Analytics Dashboard
-- 📊 **Focus Areas:** AI/ML, Database Systems, Data Visualization
+*GitHub analytics services are indexing this new repository. Full automated stats will be available within 24-48 hours.*
 
 </div>
 
