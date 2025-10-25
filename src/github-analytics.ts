@@ -226,6 +226,13 @@ class GitHubAnalytics {
 // Export for use in other modules
 export { GitHubAnalytics, GitHubUser, Repository, LanguageStats, ContributionData };
 
+// Global declaration for browser environment
+declare global {
+  interface Window {
+    GitHubAnalytics: typeof GitHubAnalytics;
+  }
+}
+
 // Example usage
 if (typeof window !== 'undefined') {
   // Browser environment

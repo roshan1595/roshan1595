@@ -83,16 +83,29 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 |---------------|--------------|----------------|
 | 📁 **Public Repositories** | `3` | Active development portfolio |
 | 👥 **Followers** | `1` | Growing professional network |
-| � **Following** | `1` | Curated tech influencers |
-| � **Primary Languages** | `TypeScript, Python` | Full-stack AI development |
-| 📅 **Account Since** | `March 30, 2023` | 1.5+ years of consistent coding |
+| 💫 **Following** | `1` | Curated tech influencers |
+| 🎯 **Primary Languages** | `Python, TypeScript, JavaScript` | Full-stack development |
+| 📅 **Account Since** | `2023-03-30` | Years of consistent coding |
 | ⭐ **Total Stars** | `Building...` | Projects gaining recognition |
 
 ### 🌐 **Language Distribution**
 ```
-TypeScript  ████████████████████████████████████████ 50%
-Python      ████████████████████████████████████████ 50%
+Python       █████████████████████░░░░░░░░░░░░░░░░░░░ 53.7%
+TypeScript   ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 30.6%
+JavaScript   ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 15.8%
 ```
+
+### 📈 **GitHub Stats Widgets**
+
+<!-- The cool GitHub stats images are back! -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=86400" alt="Top Languages"/>
+
+<!-- GitHub streak stats -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+
+<!-- Custom language distribution SVG -->
+<img src="https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/language-stats.svg" alt="Language Distribution" width="400"/>
 
 ### 🔥 **Recent Activity Highlights**
 - 🚀 **Latest Repository:** `roshan1595/roshan1595` (Profile README)
@@ -108,7 +121,7 @@ Python      ██████████████████████�
 
 ---
 
-*GitHub analytics services are indexing this new repository. Full automated stats will be available within 24-48 hours.*
+*Last updated: 2025-10-25 12:35:25 UTC • Auto-refreshes every 6 hours*
 
 </div>
 
