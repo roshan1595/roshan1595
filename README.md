@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Welcome to my digital universe! 
+![Header Banner](./assets/svg/header-banner.svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=AI+%26+Database+Engineer;Data+Science+Enthusiast;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 
@@ -12,6 +12,8 @@
 
 ### 🧠 **AI • Databases • Data Science**
 *Turning data into insights, one algorithm at a time*
+
+![Coding Icon](./assets/svg/coding-icon.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/roshan1595?label=Follow&style=social)](https://github.com/roshan1595)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan1595)
@@ -88,6 +90,8 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 **🏫 University of Scranton** | *Scranton, PA*  
 Exploring the intersection of **Computer Science** and **Data Analytics**
+
+![Data Wave](./assets/svg/data-wave.svg)
 
 </div>
 
