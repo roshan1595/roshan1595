@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](./assets/svg/header-banner.svg)
+![Header Banner](https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/header-banner.svg)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=AI+%26+Database+Engineer;Data+Science+Enthusiast;Always+Learning+%F0%9F%93%88" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 ### 🧠 **AI • Databases • Data Science**
 *Turning data into insights, one algorithm at a time*
 
-![Coding Icon](./assets/svg/coding-icon.svg)
+![Coding Icon](https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/coding-icon.svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/roshan1595?label=Follow&style=social)](https://github.com/roshan1595)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan1595)
@@ -77,8 +77,34 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight"/>
+### 🔄 **Stats Loading...**
+
+*GitHub is analyzing my repositories and will display detailed analytics within **24-48 hours** of repository creation.*
+
+**What you'll see soon:**
+- 📈 **Contribution Graph** - Daily coding activity
+- 🌐 **Language Breakdown** - Python, TypeScript, JavaScript distribution  
+- ⭐ **Repository Stats** - Stars, forks, and project metrics
+- 🔥 **Coding Streak** - Consistent development patterns
+
+**Current Status:** `Repository Created October 25, 2025` ✅  
+**Analytics Available:** `~October 26-27, 2025` ⏳
+
+---
+
+**Live Stats Preview:**
+<!-- GitHub stats will automatically appear here once indexing completes -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=true" alt="Top Languages"/>
+
+<!-- Alternative stats widgets that may load faster -->
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+**🎯 Repository Highlights:**
+- 📁 **Public Repos:** Currently building portfolio
+- 🔤 **Primary Languages:** Python, TypeScript, JavaScript  
+- 🚀 **Latest Project:** Weather Data Analytics Dashboard
+- 📊 **Focus Areas:** AI/ML, Database Systems, Data Visualization
 
 </div>
 
@@ -91,7 +117,7 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 **🏫 University of Scranton** | *Scranton, PA*  
 Exploring the intersection of **Computer Science** and **Data Analytics**
 
-![Data Wave](./assets/svg/data-wave.svg)
+![Data Wave](https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/data-wave.svg)
 
 </div>
 
