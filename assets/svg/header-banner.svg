@@ -1,0 +1,55 @@
+<svg width="400" height="120" viewBox="0 0 400 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="aiGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="dataGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f093fb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f5576c;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="400" height="120" fill="#0d1117" rx="15"/>
+  
+  <!-- AI Brain Icon -->
+  <g transform="translate(30, 30)">
+    <circle cx="30" cy="30" r="25" fill="url(#aiGradient)" opacity="0.8"/>
+    <path d="M15 25 Q20 15 25 25 Q30 15 35 25 Q40 15 45 25" 
+          stroke="white" stroke-width="2" fill="none" opacity="0.9"/>
+    <circle cx="22" cy="22" r="2" fill="white"/>
+    <circle cx="38" cy="22" r="2" fill="white"/>
+    <path d="M20 35 Q30 40 40 35" stroke="white" stroke-width="2" fill="none"/>
+  </g>
+  
+  <!-- Database Icon -->
+  <g transform="translate(330, 30)">
+    <ellipse cx="30" cy="20" rx="20" ry="8" fill="url(#dataGradient)" opacity="0.8"/>
+    <rect x="10" y="20" width="40" height="20" fill="url(#dataGradient)" opacity="0.8"/>
+    <ellipse cx="30" cy="40" rx="20" ry="8" fill="url(#dataGradient)" opacity="0.8"/>
+    <ellipse cx="30" cy="32" rx="20" ry="8" fill="url(#dataGradient)" opacity="0.6"/>
+    <ellipse cx="30" cy="24" rx="20" ry="8" fill="url(#dataGradient)" opacity="0.4"/>
+  </g>
+  
+  <!-- Title Text -->
+  <text x="200" y="40" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18" font-weight="bold">
+    AI & Database Engineer
+  </text>
+  
+  <!-- Subtitle -->
+  <text x="200" y="60" text-anchor="middle" fill="#58a6ff" font-family="Arial, sans-serif" font-size="12">
+    Turning Data into Intelligence
+  </text>
+  
+  <!-- Animated dots -->
+  <circle cx="120" cy="80" r="3" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="80" r="3" fill="#00d9ff">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="280" cy="80" r="3" fill="#00d9ff">
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
