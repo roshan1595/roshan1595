@@ -12,16 +12,16 @@
     
     <text x="20" y="30" class="lang-text" font-weight="bold" font-size="16">🌐 Language Distribution</text>
     <text x="20" y="60" class="lang-text">Python</text>
-    <rect x="120" y="48" width="190.96" height="15" fill="#3178c6" class="bar" opacity="0.8"/>
-    <text x="340" y="60" class="percent-text">68.2%</text>
+    <rect x="120" y="48" width="198.52" height="15" fill="#3178c6" class="bar" opacity="0.8"/>
+    <text x="340" y="60" class="percent-text">70.9%</text>
     <text x="20" y="85" class="lang-text">TypeScript</text>
-    <rect x="120" y="73" width="51.519999999999996" height="15" fill="#3776ab" class="bar" opacity="0.8"/>
-    <text x="340" y="85" class="percent-text">18.4%</text>
+    <rect x="120" y="73" width="46.76" height="15" fill="#3776ab" class="bar" opacity="0.8"/>
+    <text x="340" y="85" class="percent-text">16.7%</text>
     <text x="20" y="110" class="lang-text">JavaScript</text>
-    <rect x="120" y="98" width="26.040000000000003" height="15" fill="#f1c40f" class="bar" opacity="0.8"/>
-    <text x="340" y="110" class="percent-text">9.3%</text>
+    <rect x="120" y="98" width="23.520000000000003" height="15" fill="#f1c40f" class="bar" opacity="0.8"/>
+    <text x="340" y="110" class="percent-text">8.4%</text>
     <text x="20" y="135" class="lang-text">HTML</text>
     <rect x="120" y="123" width="11.200000000000001" height="15" fill="#e74c3c" class="bar" opacity="0.8"/>
     <text x="340" y="135" class="percent-text">4.0%</text>
-    <text x="20" y="190" class="percent-text" opacity="0.7">Updated: 2025-10-25 12:44</text>
+    <text x="20" y="190" class="percent-text" opacity="0.7">Updated: 2025-10-25 20:35</text>
 </svg>
