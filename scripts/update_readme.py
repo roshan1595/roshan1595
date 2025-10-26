@@ -58,9 +58,15 @@ def update_readme_stats():
     
     # Update "Last Updated" timestamp
     current_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    timestamp_for_cache = datetime.now(timezone.utc).strftime("%Y%m%d%H%M%S")
+    
     updated_pattern = r'\*Last updated:.*?\*'
     new_update_text = f"*Last updated: {current_time} • Auto-refreshes every 6 hours*"
     readme_content = re.sub(updated_pattern, new_update_text, readme_content)
+    
+    # Update cache-busting timestamp for custom SVG
+    cache_pattern = r'TIMESTAMP_PLACEHOLDER'
+    readme_content = re.sub(cache_pattern, timestamp_for_cache, readme_content)
     
     # Write updated README
     with open('README.md', 'w', encoding='utf-8') as f:

@@ -90,14 +90,44 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 ### 📈 **GitHub Stats Widgets**
 
+<div align="center">
+<table>
+<tr>
+<td>
+
+<!-- GitHub Stats Card -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=300&v=20251026004135" alt="GitHub Stats"/>
+
+</td>
+<td>
+
 <!-- GitHub streak stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=300&v=20251026004135" alt="GitHub Streak"/>
 
-<!-- Top languages chart -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=86400" alt="Top Languages"/>
+</td>
+</tr>
+<tr>
+<td colspan="2">
 
-<!-- Custom language distribution SVG -->
-<img src="https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/language-stats.svg" alt="Language Distribution" width="400"/>
+<!-- Top languages chart with cache busting -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=300&exclude_repo=roshan1595&v=20251026004135" alt="Top Languages"/>
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<!-- Custom language distribution SVG (updates automatically) -->
+<img src="https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/language-stats.svg?cache_bust=20251026004135" alt="Custom Language Distribution" width="400"/>
+
+</td>
+</tr>
+</table>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan1595&theme=tokyo-night&hide_border=true&cache_seconds=300" alt="GitHub Activity Graph" width="100%"/>
+
+</div>
 
 ### 🔥 **Recent Activity Highlights**
 - 🚀 **Latest Repository:** `roshan1595/roshan1595` (Profile README)
@@ -113,7 +143,7 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 ---
 
-*Last updated: 2025-10-26 00:37:38 UTC • Auto-refreshes every 6 hours*
+*Last updated: 2025-10-26 00:41:10 UTC • Auto-refreshes every 6 hours*
 
 </div>
 
