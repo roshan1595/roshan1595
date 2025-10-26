@@ -109,8 +109,7 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 <tr>
 <td colspan="2">
 
-<!-- Top languages chart with cache busting -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&layout=compact&hide_border=true&theme=tokyonight&hide_progress=false&cache_seconds=300&exclude_repo=roshan1595&v=20251026004135" alt="Top Languages"/>
+
 
 </td>
 </tr>
