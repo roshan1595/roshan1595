@@ -1,6 +1,6 @@
 import json
 import re
-from datetime import datetime
+from datetime import datetime, timezone
 import requests
 
 def load_stats_data():
@@ -57,8 +57,8 @@ def update_readme_stats():
     readme_content = re.sub(lang_pattern, new_lang_block, readme_content, flags=re.DOTALL)
     
     # Update "Last Updated" timestamp
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
-    updated_pattern = r'\*GitHub analytics services are.*?\*'
+    current_time = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
+    updated_pattern = r'\*Last updated:.*?\*'
     new_update_text = f"*Last updated: {current_time} • Auto-refreshes every 6 hours*"
     readme_content = re.sub(updated_pattern, new_update_text, readme_content)
     
