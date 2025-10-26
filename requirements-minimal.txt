@@ -1,0 +1,2 @@
+# Minimal requirements for GitHub Profile Scripts
+requests>=2.31.0
