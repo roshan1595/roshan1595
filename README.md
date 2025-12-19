@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### 🧠 **AI • Databases • Data Science**
+### 🧠 **AI Models • Databases • Data Science**
 *Turning data into insights, one algorithm at a time*
 
 ![Coding Icon](https://raw.githubusercontent.com/roshan1595/roshan1595/main/assets/svg/coding-icon.svg)
