@@ -84,7 +84,7 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 | 📁 **Public Repositories** | `3` | Active development portfolio |
 | 👥 **Followers** | `1` | Growing professional network |
 | 💫 **Following** | `1` | Curated tech influencers |
-| 🎯 **Primary Languages** | `` | Full-stack development |
+| 🎯 **Primary Languages** | `Python, TypeScript, JavaScript` | Full-stack development |
 | 📅 **Account Since** | `2023-03-30` | Years of consistent coding |
 | ⭐ **Total Stars** | `Building...` | Projects gaining recognition |
 
@@ -142,7 +142,7 @@ Developing intelligent systems that learn, adapt, and solve real-world problems 
 
 ---
 
-*Last updated: 2025-12-23 18:33:48 UTC • Auto-refreshes every 6 hours*
+*Last updated: 2025-12-24 01:47:31 UTC • Auto-refreshes every 6 hours*
 
 </div>
 
