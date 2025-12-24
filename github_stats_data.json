@@ -1,7 +1,7 @@
 {
   "stats": {
     "table": "| \ud83d\udcca **Metric** | \ud83d\udd22 **Value** | \ud83d\udcc8 **Details** |\n|---------------|--------------|----------------|\n| \ud83d\udcc1 **Public Repositories** | `3` | Active development portfolio |\n| \ud83d\udc65 **Followers** | `1` | Growing professional network |\n| \ud83d\udcab **Following** | `1` | Curated tech influencers |\n| \ud83c\udfaf **Primary Languages** | `Python, TypeScript, JavaScript` | Full-stack development |\n| \ud83d\udcc5 **Account Since** | `2023-03-30` | Years of consistent coding |\n| \u2b50 **Total Stars** | `Building...` | Projects gaining recognition |",
-    "languages": "Python       \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 73.7%\nTypeScript   \u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 15.8%\nJavaScript   \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 8.0%\nHTML         \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 2.4%",
+    "languages": "Python       \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 72.8%\nTypeScript   \u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 15.6%\nJavaScript   \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 7.9%\nHTML         \u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 3.7%",
     "top_language": "Python"
   },
   "raw_data": {
@@ -109,14 +109,14 @@
         "releases_url": "https://api.github.com/repos/roshan1595/roshan1595/releases{/id}",
         "deployments_url": "https://api.github.com/repos/roshan1595/roshan1595/deployments",
         "created_at": "2025-10-25T16:14:21Z",
-        "updated_at": "2025-12-23T18:33:52Z",
-        "pushed_at": "2025-12-23T18:33:49Z",
+        "updated_at": "2025-12-24T01:47:35Z",
+        "pushed_at": "2025-12-24T01:47:32Z",
         "git_url": "git://github.com/roshan1595/roshan1595.git",
         "ssh_url": "git@github.com:roshan1595/roshan1595.git",
         "clone_url": "https://github.com/roshan1595/roshan1595.git",
         "svn_url": "https://github.com/roshan1595/roshan1595",
         "homepage": null,
-        "size": 214,
+        "size": 221,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "Python",
@@ -352,13 +352,13 @@
       }
     ],
     "languages": {
-      "Python": 73.7,
-      "TypeScript": 15.8,
-      "JavaScript": 8.0,
-      "HTML": 2.4
+      "Python": 72.8,
+      "TypeScript": 15.6,
+      "JavaScript": 7.9,
+      "HTML": 3.7
     },
     "total_repos": 3,
-    "last_updated": "2025-12-24 01:47:31"
+    "last_updated": "2025-12-24 06:36:16"
   },
-  "generated_at": "2025-12-24T01:47:31.333944"
+  "generated_at": "2025-12-24T06:36:16.426189"
 }
