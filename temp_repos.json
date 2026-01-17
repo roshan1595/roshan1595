@@ -1,0 +1,551 @@
+﻿{
+    "value":  [
+                  {
+                      "created_at":  "2025-10-08T17:17:53Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "JavaScript",
+                      "name":  "crowndesk",
+                      "private":  true,
+                      "pushed_at":  "2025-11-27T18:57:06Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-27T18:57:10Z"
+                  },
+                  {
+                      "created_at":  "2025-04-23T02:42:35Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  null,
+                      "name":  "altra",
+                      "private":  false,
+                      "pushed_at":  "2025-03-25T07:20:00Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-04-23T02:42:35Z"
+                  },
+                  {
+                      "created_at":  "2025-12-10T22:22:13Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "backend",
+                      "private":  true,
+                      "pushed_at":  "2025-12-17T00:53:47Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-17T00:53:50Z"
+                  },
+                  {
+                      "created_at":  "2025-11-07T04:07:51Z",
+                      "description":  "HTML based Presentation for CrownDesk",
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "Cdppt",
+                      "private":  true,
+                      "pushed_at":  "2025-11-07T05:00:16Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-07T05:00:17Z"
+                  },
+                  {
+                      "created_at":  "2025-10-25T14:36:23Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  null,
+                      "name":  "crowdeskapi",
+                      "private":  true,
+                      "pushed_at":  "2025-10-25T14:36:23Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-25T14:36:23Z"
+                  },
+                  {
+                      "created_at":  "2026-01-15T07:03:34Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "Crowndesk",
+                      "private":  true,
+                      "pushed_at":  "2026-01-17T03:25:15Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-17T03:25:18Z"
+                  },
+                  {
+                      "created_at":  "2025-10-26T17:28:55Z",
+                      "description":  "CrownDesk Healthcare API - HIPAA-compliant backend services",
+                      "forks_count":  0,
+                      "language":  "JavaScript",
+                      "name":  "crowndesk-backend",
+                      "private":  true,
+                      "pushed_at":  "2025-11-28T00:46:11Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-28T00:46:14Z"
+                  },
+                  {
+                      "created_at":  "2025-10-08T23:21:10Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "JavaScript",
+                      "name":  "crowndesk-dashboard",
+                      "private":  true,
+                      "pushed_at":  "2025-10-26T16:55:15Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-26T16:55:18Z"
+                  },
+                  {
+                      "created_at":  "2025-10-26T17:29:01Z",
+                      "description":  "CrownDesk Healthcare Dashboard - React frontend application",
+                      "forks_count":  0,
+                      "language":  "JavaScript",
+                      "name":  "crowndesk-frontend",
+                      "private":  true,
+                      "pushed_at":  "2025-12-26T07:01:07Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-26T07:01:08Z"
+                  },
+                  {
+                      "created_at":  "2025-11-11T18:41:53Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "CrownDesk-FrontEndV2",
+                      "private":  true,
+                      "pushed_at":  "2025-11-27T18:59:12Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-27T18:59:17Z"
+                  },
+                  {
+                      "created_at":  "2025-10-16T20:40:31Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  null,
+                      "name":  "crowndesk-website",
+                      "private":  true,
+                      "pushed_at":  "2025-10-16T20:40:32Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-16T20:40:32Z"
+                  },
+                  {
+                      "created_at":  "2025-10-22T18:20:28Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "JavaScript",
+                      "name":  "crowndeskv2",
+                      "private":  true,
+                      "pushed_at":  "2025-11-27T18:58:57Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-27T18:59:01Z"
+                  },
+                  {
+                      "created_at":  "2025-10-24T17:06:59Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "crowndesk_db_docs_suite",
+                      "private":  true,
+                      "pushed_at":  "2025-10-24T17:07:01Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-24T17:07:05Z"
+                  },
+                  {
+                      "created_at":  "2025-10-16T20:58:21Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "Crowndesk_LandingPage",
+                      "private":  true,
+                      "pushed_at":  "2025-10-16T23:06:48Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-16T23:06:52Z"
+                  },
+                  {
+                      "created_at":  "2025-10-03T23:20:12Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Shell",
+                      "name":  "docs",
+                      "private":  true,
+                      "pushed_at":  "2025-10-03T23:25:06Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-03T23:25:09Z"
+                  },
+                  {
+                      "created_at":  "2025-10-31T21:26:46Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "his",
+                      "private":  true,
+                      "pushed_at":  "2025-11-05T16:44:46Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-05T16:44:50Z"
+                  },
+                  {
+                      "created_at":  "2025-12-10T22:23:39Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "inbde-platform-frontend",
+                      "private":  true,
+                      "pushed_at":  "2025-12-17T20:33:47Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-17T20:33:50Z"
+                  },
+                  {
+                      "created_at":  "2026-01-08T22:30:02Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "LinuxVM-Manager",
+                      "private":  true,
+                      "pushed_at":  "2026-01-08T22:47:15Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-08T22:47:20Z"
+                  },
+                  {
+                      "created_at":  "2025-12-18T03:55:24Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "NeuraNote",
+                      "private":  true,
+                      "pushed_at":  "2026-01-12T14:27:47Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-12T14:27:51Z"
+                  },
+                  {
+                      "created_at":  "2025-11-03T17:38:01Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "nextjs-xaltraxai",
+                      "private":  true,
+                      "pushed_at":  "2025-11-03T17:38:09Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-03T17:38:48Z"
+                  },
+                  {
+                      "created_at":  "2025-12-28T05:01:46Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "PhDAtlas",
+                      "private":  true,
+                      "pushed_at":  "2025-12-28T05:28:08Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-28T05:28:11Z"
+                  },
+                  {
+                      "created_at":  "2025-12-30T20:53:19Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "QuietLine",
+                      "private":  true,
+                      "pushed_at":  "2025-12-30T20:53:22Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-30T20:53:25Z"
+                  },
+                  {
+                      "created_at":  "2026-01-15T08:38:55Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "RinEnt",
+                      "private":  true,
+                      "pushed_at":  "2026-01-15T09:21:02Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-15T09:21:06Z"
+                  },
+                  {
+                      "created_at":  "2025-10-25T16:14:21Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "roshan1595",
+                      "private":  false,
+                      "pushed_at":  "2026-01-17T06:09:00Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-17T06:09:04Z"
+                  },
+                  {
+                      "created_at":  "2025-05-30T15:00:43Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "studio",
+                      "private":  true,
+                      "pushed_at":  "2025-05-30T15:00:48Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-05-30T15:35:11Z"
+                  },
+                  {
+                      "created_at":  "2026-01-10T02:37:11Z",
+                      "description":  "Virtual memory management system for Termux/PRoot environments. Configurable pool sizes, real-time monitoring, and automatic optimization.",
+                      "forks_count":  0,
+                      "language":  "Shell",
+                      "name":  "termux-virtual-memory",
+                      "private":  false,
+                      "pushed_at":  "2026-01-10T14:46:55Z",
+                      "stargazers_count":  1,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-10T13:14:07Z"
+                  },
+                  {
+                      "created_at":  "2025-12-04T19:57:13Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "TT",
+                      "private":  true,
+                      "pushed_at":  "2025-12-04T19:58:51Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-04T19:58:56Z"
+                  },
+                  {
+                      "created_at":  "2025-11-14T00:09:52Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "tubeforge",
+                      "private":  true,
+                      "pushed_at":  "2025-11-14T01:23:30Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-14T01:23:33Z"
+                  },
+                  {
+                      "created_at":  "2026-01-12T15:04:34Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "VowFit",
+                      "private":  true,
+                      "pushed_at":  "2026-01-14T12:33:14Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2026-01-14T12:33:21Z"
+                  },
+                  {
+                      "created_at":  "2024-07-31T17:40:26Z",
+                      "description":  " Weather data dashboard webpage using Streamlit and altair python libraries.",
+                      "forks_count":  0,
+                      "language":  "Python",
+                      "name":  "weather-data-analysis-dashboard",
+                      "private":  false,
+                      "pushed_at":  "2024-07-31T17:40:29Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2024-07-31T17:40:33Z"
+                  },
+                  {
+                      "created_at":  "2025-08-13T14:35:23Z",
+                      "description":  "XaltraX website",
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "xaltrax",
+                      "private":  true,
+                      "pushed_at":  "2025-10-03T15:28:10Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-03T15:28:14Z"
+                  },
+                  {
+                      "created_at":  "2025-11-03T17:05:04Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "xaltrax-ai",
+                      "private":  true,
+                      "pushed_at":  "2025-11-27T18:58:44Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-27T18:58:48Z"
+                  },
+                  {
+                      "created_at":  "2025-10-03T19:08:56Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "XaltraX-AI-Services",
+                      "private":  true,
+                      "pushed_at":  "2025-10-03T19:08:59Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-03T19:09:03Z"
+                  },
+                  {
+                      "created_at":  "2025-11-03T21:03:41Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "xaltrax-backend",
+                      "private":  true,
+                      "pushed_at":  "2025-11-27T18:58:36Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-27T18:58:41Z"
+                  },
+                  {
+                      "created_at":  "2025-11-03T21:03:51Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "xaltrax-database",
+                      "private":  true,
+                      "pushed_at":  "2025-11-03T21:23:53Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-11-03T21:23:56Z"
+                  },
+                  {
+                      "created_at":  "2025-11-03T21:03:48Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "TypeScript",
+                      "name":  "xaltrax-frontend",
+                      "private":  true,
+                      "pushed_at":  "2025-12-10T16:47:27Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-12-10T16:47:30Z"
+                  },
+                  {
+                      "created_at":  "2025-10-03T19:42:57Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "XaltraX-Infrastructure",
+                      "private":  true,
+                      "pushed_at":  "2025-10-03T19:43:03Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-03T19:43:10Z"
+                  },
+                  {
+                      "created_at":  "2025-10-02T13:43:28Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  null,
+                      "name":  "Xaltraxdental",
+                      "private":  true,
+                      "pushed_at":  "2025-10-02T13:43:29Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-02T13:43:29Z"
+                  },
+                  {
+                      "created_at":  "2025-10-04T17:25:37Z",
+                      "description":  null,
+                      "forks_count":  0,
+                      "language":  "HTML",
+                      "name":  "Xmeets-XaltraX",
+                      "private":  true,
+                      "pushed_at":  "2025-10-04T18:00:52Z",
+                      "stargazers_count":  0,
+                      "topics":  [
+
+                                 ],
+                      "updated_at":  "2025-10-04T18:00:56Z"
+                  }
+              ],
+    "Count":  39
+}

@@ -90,31 +90,37 @@ const roshan = {
 
 <div align="center">
 
+<!-- Custom Stats Cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/github-stats-card.svg">
+  <img src="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/github-stats-card.svg" alt="GitHub Stats" width="495"/>
+</picture>
+
+<br/><br/>
+
 <table>
   <tr>
-    <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roshan1595&theme=tokyonight" alt="Contribution Graph" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan1595&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshan1595&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/top-languages.svg">
+        <img src="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/top-languages.svg" alt="Top Languages" width="400"/>
+      </picture>
     </td>
   </tr>
 </table>
+
+<br/>
+
+<!-- Streak Stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/streak-stats.svg">
+  <img src="https://raw.githubusercontent.com/roshan1595/roshan1595/master/assets/svg/streak-stats.svg" alt="GitHub Streak" width="800"/>
+</picture>
+
+<br/><br/>
+
+<!-- Activity Graph - Using simpler alternative -->
+[![Roshan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=roshan1595&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=7dcfff&area=true&hide_border=true)](https://github.com/roshan1595)
 
 ### 📈 Key Metrics
 
