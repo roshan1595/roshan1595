@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing Animation Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Roshan+Kumar+Singh;Full-Stack+Developer+%7C+Healthcare+Tech+Innovator;TypeScript+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+Next.js" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Roshan+Kumar+Singh;Full-Stack+Developer+|+Healthcare+Tech+Innovator;TypeScript+•+Python+•+React+•+Next.js" alt="Typing Animation" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=roshan1595&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -97,11 +97,11 @@ const roshan = {
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats" />
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan1595&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
+    <td width="50%">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan1595&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&count_private=true" alt="Top Languages" />
     </td>
   </tr>
   <tr>
