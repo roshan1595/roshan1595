@@ -1,0 +1,46 @@
+<svg width="100%" height="50" viewBox="0 0 1200 50" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="divider-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00D9FF;stop-opacity:0.2" />
+      <stop offset="50%" style="stop-color:#7B61FF;stop-opacity:0.4" />
+      <stop offset="100%" style="stop-color:#FF6B9D;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Wavy line -->
+  <path d="M0,25 Q200,10 400,25 T800,25 Q1000,40 1200,25" 
+        fill="none" 
+        stroke="url(#divider-gradient)" 
+        stroke-width="2">
+    <animate attributeName="d" 
+             dur="8s" 
+             repeatCount="indefinite"
+             values="M0,25 Q200,10 400,25 T800,25 Q1000,40 1200,25;
+                     M0,25 Q200,40 400,25 T800,25 Q1000,10 1200,25;
+                     M0,25 Q200,10 400,25 T800,25 Q1000,40 1200,25"/>
+  </path>
+  
+  <!-- Dots following the wave -->
+  <circle r="4" fill="#00D9FF">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#wavePath"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle r="4" fill="#7B61FF">
+    <animateMotion dur="6s" begin="2s" repeatCount="indefinite">
+      <mpath href="#wavePath"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <circle r="4" fill="#FF6B9D">
+    <animateMotion dur="6s" begin="4s" repeatCount="indefinite">
+      <mpath href="#wavePath"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  
+  <path id="wavePath" d="M0,25 Q200,10 400,25 T800,25 Q1000,40 1200,25" fill="none"/>
+</svg>
