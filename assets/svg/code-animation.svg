@@ -1,0 +1,60 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="screen-bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1e2e;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#181825;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Monitor frame -->
+  <rect x="50" y="30" width="300" height="200" rx="5" fill="url(#screen-bg)" stroke="#7aa2f7" stroke-width="2"/>
+  
+  <!-- Monitor stand -->
+  <rect x="180" y="230" width="40" height="30" fill="#414868"/>
+  <rect x="150" y="260" width="100" height="10" rx="5" fill="#414868"/>
+  
+  <!-- Code lines with animation -->
+  <g font-family="'Fira Code', monospace" font-size="10">
+    <!-- Line 1 -->
+    <text x="70" y="60" fill="#ff9e64">const</text>
+    <text x="110" y="60" fill="#7dcfff">developer</text>
+    <text x="180" y="60" fill="#c0caf5">=</text>
+    <text x="200" y="60" fill="#9ece6a">"Roshan"</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+    
+    <!-- Line 2 -->
+    <text x="70" y="80" fill="#ff9e64">const</text>
+    <text x="110" y="80" fill="#7dcfff">passion</text>
+    <text x="180" y="80" fill="#c0caf5">=</text>
+    <text x="200" y="80" fill="#9ece6a">"Healthcare"</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.3s" fill="freeze"/>
+    
+    <!-- Line 3 -->
+    <text x="70" y="100" fill="#ff9e64">const</text>
+    <text x="110" y="100" fill="#7dcfff">tech</text>
+    <text x="180" y="100" fill="#c0caf5">=</text>
+    <text x="200" y="100" fill="#bb9af7">["TypeScript", "Python"]</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.6s" fill="freeze"/>
+    
+    <!-- Line 4 -->
+    <text x="70" y="120" fill="#bb9af7">function</text>
+    <text x="140" y="120" fill="#7dcfff">buildFuture</text>
+    <text x="220" y="120" fill="#c0caf5">()</text>
+    <text x="240" y="120" fill="#c0caf5">{</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.9s" fill="freeze"/>
+    
+    <!-- Line 5 -->
+    <text x="90" y="140" fill="#ff9e64">return</text>
+    <text x="140" y="140" fill="#9ece6a">"Innovation"</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.2s" fill="freeze"/>
+    
+    <!-- Line 6 -->
+    <text x="70" y="160" fill="#c0caf5">}</text>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.5s" fill="freeze"/>
+  </g>
+  
+  <!-- Cursor blink -->
+  <rect x="260" y="150" width="8" height="12" fill="#00D9FF">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

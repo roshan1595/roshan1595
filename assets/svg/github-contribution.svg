@@ -1,0 +1,100 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="contrib-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0e4429;stop-opacity:1" />
+      <stop offset="33%" style="stop-color:#006d32;stop-opacity:1" />
+      <stop offset="66%" style="stop-color:#26a641;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#39d353;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Title -->
+  <text x="200" y="25" font-family="'Fira Code', monospace" font-size="16" fill="#c0caf5" text-anchor="middle" font-weight="bold">
+    Contribution Streak
+  </text>
+  
+  <!-- Contribution squares grid -->
+  <g transform="translate(20, 40)">
+    <!-- Week 1 -->
+    <rect x="0" y="0" width="10" height="10" fill="#0e4429" rx="2"/>
+    <rect x="0" y="15" width="10" height="10" fill="#006d32" rx="2">
+      <animate attributeName="fill" values="#006d32;#26a641;#006d32" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="30" width="10" height="10" fill="#26a641" rx="2"/>
+    <rect x="0" y="45" width="10" height="10" fill="#39d353" rx="2">
+      <animate attributeName="fill" values="#39d353;#26a641;#39d353" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="0" y="60" width="10" height="10" fill="#006d32" rx="2"/>
+    <rect x="0" y="75" width="10" height="10" fill="#0e4429" rx="2"/>
+    <rect x="0" y="90" width="10" height="10" fill="#26a641" rx="2"/>
+    
+    <!-- Generate multiple weeks -->
+    <g transform="translate(15, 0)">
+      <rect x="0" y="0" width="10" height="10" fill="#006d32" rx="2"/>
+      <rect x="0" y="15" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="30" width="10" height="10" fill="#39d353" rx="2">
+        <animate attributeName="opacity" values="1;0.6;1" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="45" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="60" width="10" height="10" fill="#39d353" rx="2"/>
+      <rect x="0" y="75" width="10" height="10" fill="#006d32" rx="2"/>
+      <rect x="0" y="90" width="10" height="10" fill="#0e4429" rx="2"/>
+    </g>
+    
+    <!-- Continue pattern -->
+    <g transform="translate(30, 0)">
+      <rect x="0" y="0" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="15" width="10" height="10" fill="#39d353" rx="2"/>
+      <rect x="0" y="30" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="45" width="10" height="10" fill="#39d353" rx="2">
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="1.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="60" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="75" width="10" height="10" fill="#006d32" rx="2"/>
+      <rect x="0" y="90" width="10" height="10" fill="#26a641" rx="2"/>
+    </g>
+    
+    <!-- More weeks -->
+    <g transform="translate(45, 0)">
+      <rect x="0" y="0" width="10" height="10" fill="#39d353" rx="2"/>
+      <rect x="0" y="15" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="30" width="10" height="10" fill="#39d353" rx="2"/>
+      <rect x="0" y="45" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="60" width="10" height="10" fill="#39d353" rx="2">
+        <animate attributeName="fill" values="#39d353;#26a641;#39d353" dur="2s" begin="0.5s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="0" y="75" width="10" height="10" fill="#26a641" rx="2"/>
+      <rect x="0" y="90" width="10" height="10" fill="#006d32" rx="2"/>
+    </g>
+    
+    <!-- Repeat pattern for visual effect -->
+    <use href="g" transform="translate(60, 0)"/>
+    <use href="g" transform="translate(75, 0)"/>
+    <use href="g" transform="translate(90, 0)"/>
+    <use href="g" transform="translate(105, 0)"/>
+    <use href="g" transform="translate(120, 0)"/>
+    <use href="g" transform="translate(135, 0)"/>
+    <use href="g" transform="translate(150, 0)"/>
+    <use href="g" transform="translate(165, 0)"/>
+    <use href="g" transform="translate(180, 0)"/>
+    <use href="g" transform="translate(195, 0)"/>
+    <use href="g" transform="translate(210, 0)"/>
+    <use href="g" transform="translate(225, 0)"/>
+    <use href="g" transform="translate(240, 0)"/>
+    <use href="g" transform="translate(255, 0)"/>
+    <use href="g" transform="translate(270, 0)"/>
+    <use href="g" transform="translate(285, 0)"/>
+    <use href="g" transform="translate(300, 0)"/>
+    <use href="g" transform="translate(315, 0)"/>
+    <use href="g" transform="translate(330, 0)"/>
+    <use href="g" transform="translate(345, 0)"/>
+  </g>
+  
+  <!-- Legend -->
+  <text x="20" y="145" font-family="'Fira Code', monospace" font-size="10" fill="#9aa5ce">Less</text>
+  <rect x="50" y="135" width="8" height="8" fill="#0e4429" rx="1"/>
+  <rect x="65" y="135" width="8" height="8" fill="#006d32" rx="1"/>
+  <rect x="80" y="135" width="8" height="8" fill="#26a641" rx="1"/>
+  <rect x="95" y="135" width="8" height="8" fill="#39d353" rx="1"/>
+  <text x="110" y="145" font-family="'Fira Code', monospace" font-size="10" fill="#9aa5ce">More</text>
+</svg>
