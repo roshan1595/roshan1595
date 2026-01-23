@@ -12,11 +12,11 @@
     
     <text x="20" y="30" class="lang-text" font-weight="bold" font-size="16">🌐 Language Distribution</text>
     <text x="20" y="60" class="lang-text">TypeScript</text>
-    <rect x="120" y="48" width="238.84" height="15" fill="#3178c6" class="bar" opacity="0.8"/>
-    <text x="340" y="60" class="percent-text">85.3%</text>
+    <rect x="120" y="48" width="238.0" height="15" fill="#3178c6" class="bar" opacity="0.8"/>
+    <text x="340" y="60" class="percent-text">85.0%</text>
     <text x="20" y="85" class="lang-text">Python</text>
-    <rect x="120" y="73" width="29.96" height="15" fill="#3776ab" class="bar" opacity="0.8"/>
-    <text x="340" y="85" class="percent-text">10.7%</text>
+    <rect x="120" y="73" width="29.68" height="15" fill="#3776ab" class="bar" opacity="0.8"/>
+    <text x="340" y="85" class="percent-text">10.6%</text>
     <text x="20" y="110" class="lang-text">Shell</text>
     <rect x="120" y="98" width="5.32" height="15" fill="#f1c40f" class="bar" opacity="0.8"/>
     <text x="340" y="110" class="percent-text">1.9%</text>
@@ -24,10 +24,10 @@
     <rect x="120" y="123" width="2.8000000000000003" height="15" fill="#e74c3c" class="bar" opacity="0.8"/>
     <text x="340" y="135" class="percent-text">1.0%</text>
     <text x="20" y="160" class="lang-text">PowerShell</text>
-    <rect x="120" y="148" width="1.4000000000000001" height="15" fill="#9b59b6" class="bar" opacity="0.8"/>
-    <text x="340" y="160" class="percent-text">0.5%</text>
+    <rect x="120" y="148" width="2.5200000000000005" height="15" fill="#9b59b6" class="bar" opacity="0.8"/>
+    <text x="340" y="160" class="percent-text">0.9%</text>
     <text x="20" y="185" class="lang-text">PLpgSQL</text>
     <rect x="120" y="173" width="0.56" height="15" fill="#2ecc71" class="bar" opacity="0.8"/>
     <text x="340" y="185" class="percent-text">0.2%</text>
-    <text x="20" y="190" class="percent-text" opacity="0.7">Updated: 2026-01-23 00:28</text>
+    <text x="20" y="190" class="percent-text" opacity="0.7">Updated: 2026-01-23 06:10</text>
 </svg>
