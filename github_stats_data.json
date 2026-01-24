@@ -1,7 +1,7 @@
 {
   "stats": {
     "table": "| \ud83d\udcca **Metric** | \ud83d\udd22 **Value** | \ud83d\udcc8 **Details** |\n|---------------|--------------|----------------|\n| \ud83d\udcc1 **Public Repositories** | `7` | Active development portfolio |\n| \ud83d\udc65 **Followers** | `1` | Growing professional network |\n| \ud83d\udcab **Following** | `1` | Curated tech influencers |\n| \ud83c\udfaf **Primary Languages** | `TypeScript, Python, Shell` | Full-stack development |\n| \ud83d\udcc5 **Account Since** | `2023-03-30` | Years of consistent coding |\n| \u2b50 **Total Stars** | `Building...` | Projects gaining recognition |",
-    "languages": "TypeScript   \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591 85.4%\nPython       \u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 10.2%\nShell        \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 1.8%\nJavaScript   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 1.1%\nPowerShell   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 0.8%",
+    "languages": "TypeScript   \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591 86.2%\nPython       \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 9.7%\nShell        \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 1.7%\nJavaScript   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 1.0%\nPowerShell   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 0.8%",
     "top_language": "TypeScript"
   },
   "raw_data": {
@@ -109,14 +109,14 @@
         "releases_url": "https://api.github.com/repos/roshan1595/crowndesk-backend/releases{/id}",
         "deployments_url": "https://api.github.com/repos/roshan1595/crowndesk-backend/deployments",
         "created_at": "2026-01-22T14:04:51Z",
-        "updated_at": "2026-01-23T17:59:11Z",
-        "pushed_at": "2026-01-23T17:58:52Z",
+        "updated_at": "2026-01-23T19:41:18Z",
+        "pushed_at": "2026-01-23T19:41:15Z",
         "git_url": "git://github.com/roshan1595/crowndesk-backend.git",
         "ssh_url": "git@github.com:roshan1595/crowndesk-backend.git",
         "clone_url": "https://github.com/roshan1595/crowndesk-backend.git",
         "svn_url": "https://github.com/roshan1595/crowndesk-backend",
         "homepage": "https://crowndesk.vercel.app",
-        "size": 450,
+        "size": 501,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "TypeScript",
@@ -210,14 +210,14 @@
         "releases_url": "https://api.github.com/repos/roshan1595/crowndesk-frontend/releases{/id}",
         "deployments_url": "https://api.github.com/repos/roshan1595/crowndesk-frontend/deployments",
         "created_at": "2026-01-22T14:04:19Z",
-        "updated_at": "2026-01-23T17:18:51Z",
-        "pushed_at": "2026-01-23T17:18:48Z",
+        "updated_at": "2026-01-23T19:14:11Z",
+        "pushed_at": "2026-01-23T19:14:08Z",
         "git_url": "git://github.com/roshan1595/crowndesk-frontend.git",
         "ssh_url": "git@github.com:roshan1595/crowndesk-frontend.git",
         "clone_url": "https://github.com/roshan1595/crowndesk-frontend.git",
         "svn_url": "https://github.com/roshan1595/crowndesk-frontend",
         "homepage": null,
-        "size": 652,
+        "size": 671,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "TypeScript",
@@ -311,14 +311,14 @@
         "releases_url": "https://api.github.com/repos/roshan1595/roshan1595/releases{/id}",
         "deployments_url": "https://api.github.com/repos/roshan1595/roshan1595/deployments",
         "created_at": "2025-10-25T16:14:21Z",
-        "updated_at": "2026-01-23T12:12:15Z",
-        "pushed_at": "2026-01-23T12:12:11Z",
+        "updated_at": "2026-01-23T18:09:41Z",
+        "pushed_at": "2026-01-23T18:09:38Z",
         "git_url": "git://github.com/roshan1595/roshan1595.git",
         "ssh_url": "git@github.com:roshan1595/roshan1595.git",
         "clone_url": "https://github.com/roshan1595/roshan1595.git",
         "svn_url": "https://github.com/roshan1595/roshan1595",
         "homepage": null,
-        "size": 299,
+        "size": 301,
         "stargazers_count": 0,
         "watchers_count": 0,
         "language": "Python",
@@ -762,10 +762,10 @@
       }
     ],
     "languages": {
-      "TypeScript": 85.4,
-      "Python": 10.2,
-      "Shell": 1.8,
-      "JavaScript": 1.1,
+      "TypeScript": 86.2,
+      "Python": 9.7,
+      "Shell": 1.7,
+      "JavaScript": 1.0,
       "PowerShell": 0.8,
       "PLpgSQL": 0.2,
       "CSS": 0.2,
@@ -773,7 +773,7 @@
       "HTML": 0.1
     },
     "total_repos": 7,
-    "last_updated": "2026-01-23 18:09:37"
+    "last_updated": "2026-01-24 00:26:58"
   },
-  "generated_at": "2026-01-23T18:09:37.527359"
+  "generated_at": "2026-01-24T00:26:58.967195"
 }
