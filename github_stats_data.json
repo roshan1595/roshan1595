@@ -1,8 +1,8 @@
 {
   "stats": {
-    "table": "| \ud83d\udcca **Metric** | \ud83d\udd22 **Value** | \ud83d\udcc8 **Details** |\n|---------------|--------------|----------------|\n| \ud83d\udcc1 **Public Repositories** | `7` | Active development portfolio |\n| \ud83d\udc65 **Followers** | `1` | Growing professional network |\n| \ud83d\udcab **Following** | `1` | Curated tech influencers |\n| \ud83c\udfaf **Primary Languages** | `` | Full-stack development |\n| \ud83d\udcc5 **Account Since** | `2023-03-30` | Years of consistent coding |\n| \u2b50 **Total Stars** | `Building...` | Projects gaining recognition |",
-    "languages": "",
-    "top_language": "No data"
+    "table": "| \ud83d\udcca **Metric** | \ud83d\udd22 **Value** | \ud83d\udcc8 **Details** |\n|---------------|--------------|----------------|\n| \ud83d\udcc1 **Public Repositories** | `7` | Active development portfolio |\n| \ud83d\udc65 **Followers** | `1` | Growing professional network |\n| \ud83d\udcab **Following** | `1` | Curated tech influencers |\n| \ud83c\udfaf **Primary Languages** | `TypeScript, Python, Shell` | Full-stack development |\n| \ud83d\udcc5 **Account Since** | `2023-03-30` | Years of consistent coding |\n| \u2b50 **Total Stars** | `Building...` | Projects gaining recognition |",
+    "languages": "TypeScript   \u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591 88.7%\nPython       \u2588\u2588\u2588\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 8.1%\nShell        \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 1.4%\nJavaScript   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 0.8%\nPowerShell   \u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591\u2591 0.6%",
+    "top_language": "TypeScript"
   },
   "raw_data": {
     "user": {
@@ -109,8 +109,8 @@
         "releases_url": "https://api.github.com/repos/roshan1595/roshan1595/releases{/id}",
         "deployments_url": "https://api.github.com/repos/roshan1595/roshan1595/deployments",
         "created_at": "2025-10-25T16:14:21Z",
-        "updated_at": "2026-02-08T06:22:18Z",
-        "pushed_at": "2026-02-08T06:22:15Z",
+        "updated_at": "2026-02-08T12:12:20Z",
+        "pushed_at": "2026-02-08T12:12:17Z",
         "git_url": "git://github.com/roshan1595/roshan1595.git",
         "ssh_url": "git@github.com:roshan1595/roshan1595.git",
         "clone_url": "https://github.com/roshan1595/roshan1595.git",
@@ -761,9 +761,19 @@
         "default_branch": "main"
       }
     ],
-    "languages": {},
+    "languages": {
+      "TypeScript": 88.7,
+      "Python": 8.1,
+      "Shell": 1.4,
+      "JavaScript": 0.8,
+      "PowerShell": 0.6,
+      "CSS": 0.2,
+      "PLpgSQL": 0.1,
+      "Dockerfile": 0.1,
+      "HTML": 0.0
+    },
     "total_repos": 7,
-    "last_updated": "2026-02-08 12:12:16"
+    "last_updated": "2026-02-08 18:11:03"
   },
-  "generated_at": "2026-02-08T12:12:16.125995"
+  "generated_at": "2026-02-08T18:11:03.141533"
 }
